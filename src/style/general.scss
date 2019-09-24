@@ -1,0 +1,81 @@
+html {
+  overflow: hidden;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial;
+  font-size: 16px;
+}
+
+#root {
+  height: 100%;
+}
+
+.anatomy-container {
+  #maincanvas {
+    width: 100%;
+    height: auto;
+  }
+
+  #tooltipCanvas {
+    position: absolute;
+    pointer-events: none;
+    top: 0px;
+    left: 0px;
+  }
+}
+
+.init-caps {
+  text-transform: capitalize;
+  display: block;
+  margin-bottom: 15px;
+  width: 170px;
+}
+
+.button-parent {
+  position: absolute;
+  padding: 20px;
+}
+
+#tooltipCanvas {
+  position: absolute;
+}
+
+//selected activity container
+.selected-activity-container {
+  height: inherit;
+  overflow: auto;
+}
+
+.activity-holder {
+  width: calc(100% - 15px);
+  height: calc(100% - 30px);
+  margin: 15px 0px 15px 0px;
+
+  @media (max-width: 1023px) {
+    width: 100%;
+  }
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.common-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+}
+
+.bg_content {
+  margin-bottom: 15px;
+}
