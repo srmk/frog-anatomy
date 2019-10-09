@@ -1,4 +1,4 @@
-![ScreenShot](https://{https://imgur.com/a/8Wmcqoz})
+![ScreenShot](https://imgur.com/a/8Wmcqoz)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
