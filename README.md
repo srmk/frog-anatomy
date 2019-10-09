@@ -1,4 +1,7 @@
 ![ScreenShot](https://imgur.com/a/8Wmcqoz)
+<div align="center">
+    <img src="https://imgur.com/a/8Wmcqoz" width="400px"</img> 
+</div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
