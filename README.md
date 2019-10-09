@@ -1,4 +1,5 @@
-https://imgur.com/a/f7bQtSq
+Simple backend event registration
+<img src="https://imgur.com/a/f7bQtSq" height="400" alt="Screenshot"/> <img src=“screenshots/2_AlbumsActivity.png" height="400" alt="Screenshot"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
