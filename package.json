@@ -16,7 +16,7 @@
     "redux-reset": "^0.3.0",
     "redux-thunk": "^2.3.0",
     "screenfull": "^5.0.0",
-    "three": "^0.108.0"
+    "three": "^0.137.0"
   },
   "scripts": {
     "start": "react-scripts start",
